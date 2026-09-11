@@ -4,8 +4,8 @@
 
 # 🔖 À propos de moi
 
-🧑‍💻 - Je suis actuellement étudiant en Licence 3 informatique à l'Université Marie et Louis Pasteur, à Besançon.
-🎨 - Je pratique l'UI/UX design en autodidacte depuis quelques années maintenant.
+🧑‍💻 - Je suis actuellement étudiant en Licence 3 informatique à l'Université Marie et Louis Pasteur, à Besançon.  
+🎨 - Je pratique l'UI/UX design en autodidacte depuis quelques années maintenant.  
 
 # 🛠️ Compétences techniques
 
